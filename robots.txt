@@ -1,0 +1,24 @@
+
+User-agent: *
+Allow: /jxl7o
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://francine-feminine.com/jxl7o/sitemap.xml
+
+User-agent: *
+Allow: /4n0nuv
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://francine-feminine.com/4n0nuv/sitemap.xml
+
+User-agent: *
+Allow: /joseph-beds-vphktah
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://francine-feminine.com/joseph-beds-vphktah/sitemap.xml
